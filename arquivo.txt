@@ -1,4 +1,5 @@
-﻿Teste feito por Thales
+﻿Teste 123 thales
+Teste feito por Thales
 Primeiro arquivo 3
 Olá Mundo!
 Alterado depois que o Juliano fechou o pull request e reabriu solicitando uma mudança blah blah
