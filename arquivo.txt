@@ -1,3 +1,4 @@
-Ol· Mundo!
-Alterado depois que o Juliano fechou o pull request e reabriu solicitando uma mudanÁa blah blah
+Primeiro arquivo 2
+Ol√° Mundo!
+Alterado depois que o Juliano fechou o pull request e reabriu solicitando uma mudan√ßa blah blah
 blah blah
