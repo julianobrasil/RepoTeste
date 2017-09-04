@@ -1,13 +1,3 @@
-Teste 123 thales
-Outra vez
-Mais uma vez
-Teste feito por-------------------
-Primeiro arquivo 3
-Olá Mundo!
-apaguei e apaguei
-apaguei e apaguei
-blah blah
-
-
+﻿Teste 123 juliano
 
 @teste de commit, pull
