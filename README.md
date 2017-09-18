@@ -19,7 +19,7 @@ Este guia supõe que você tem algum conhecimento básico sobre o GIT:
 
 1. Antes de qualquer coisa, é preciso fazer um **fork** do projeto na sua conta do github para trabalhar. Isso pode ser feito no canto superior direito da sua tela (em baixo da foto do seu perfil).
 
-![Fork](/assets/img/trabalhando_com_git/fork.png)
+![image](https://github.com/julianobrasil/imoveis-docs/blob/master/assets/img/trabalhando_com_git/fork.png)
 
 2. Depois de ter feito o **fork**, você terá uma cópia do projeto na sua conta do github. **Da sua conta do github** clone o projeto no **seu HD local**:
 
@@ -133,5 +133,5 @@ Esse comando cria uma cópia do seu ramos local (chamado "nome_do_meu_novo_branc
 
 O próximo e último passo agora é fazer um *_pull request_* (PR) para o projeto original, com a intenção de fundir suas alterações ao ramo _master_ (ou outro definido pela equipe) do projeto original.
 
-![Pull Request](/assets/img/trabalhando_com_git/PullRequest.png)
+![image](https://github.com/julianobrasil/imoveis-docs/blob/master/assets/img/trabalhando_com_git/PullRequest.png)
 
