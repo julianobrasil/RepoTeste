@@ -1,4 +1,3 @@
 Segundo arquivo
 
-
-com algumas alteracoes
+esta linha vai dar um conflito
