@@ -1,3 +1,5 @@
 Segundo arquivo
 
 esta linha vai dar um conflito
+aqui eu coloquei essa linha
+
