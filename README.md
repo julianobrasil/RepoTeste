@@ -122,7 +122,7 @@ Se quiser alterar, faça-o. Senão, salve e saia do vi para que o GIT finalize o
 Neste ponto você já:
 
 1. Criou um ramo
-2. Trabalho no seu ramo, fazendo várias alterações e vários _commits_
+2. Trabalhou no seu ramo, fazendo várias alterações e vários _commits_
 3. Finalizou o trabalho fazendo o _squash_ dos _commits_, se necessário
 
 E agora precisa enviar o resultado para o github:
