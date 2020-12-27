@@ -1,1 +1,9 @@
 
+{
+  "users": [
+    { "id": "1", "name": "juliano", "available-to-new-projects": true }
+  ],
+  "projects": [
+    { "id": "1", "name": "Proj 1", "start-date": "2021-01-02T17:04:05.000Z" }
+  ]
+}
