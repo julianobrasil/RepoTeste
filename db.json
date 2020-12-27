@@ -4,10 +4,11 @@
     { "id": "1", "name": "juliano", "availableToNewProjects": true }
   ],
   "projects": [
-    { "id": "1", "name": "Proj 1", "starDate": "2021-01-02T17:04:05.000Z", users: [
+    { "id": "1", "name": "Proj 1", "starDate": "2021-01-02T17:04:05.000Z", 
+      "users": [
       {
-        user: { "id": "1", "name": "juliano", "availableToNewProjects": true },
-        role: "PROJECT_MANAGER"
+        "user": { "id": "1", "name": "juliano", "availableToNewProjects": true },
+        "role": "PROJECT_MANAGER"
       }
     
     ] }
